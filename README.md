@@ -1,6 +1,6 @@
 # wifiMonitor
 Given TP-Link router it will monitor the data usage of devices via router </br>
-Edit create a file config.json in config folder with following structure </br>
+Edit create a config folder and then file configuration.json in config folder with following structure </br>
 
 {</br>
 	"auth" : {</br>
@@ -20,3 +20,5 @@ Edit create a file config.json in config folder with following structure </br>
     }</br>
 }</br>
 </br>
+
+Do npm install and then node app.js
